@@ -1,0 +1,232 @@
+Origin,Destination,Edge
+Beijing,Australia,0.00071603451334
+Beijing,Cambodia,0.00017885497286000002
+Beijing,Canada,0.00059188088957
+Beijing,France,0.00029563313383999996
+Beijing,Germany,0.00045051785260000004
+Beijing,India,0.00017516724146
+Beijing,Indonesia,0.0006471968605599999
+Beijing,Italy,0.00022986859055
+Beijing,Japan,0.0022581208601
+Beijing,"Korea, Rep.",0.00165886450774
+Beijing,Malaysia,0.0006564161890599999
+Beijing,Philippines,0.00029932086523
+Beijing,Rest of World,0.0038420014960599998
+Beijing,Russian Federation,0.0005445550032799999
+Beijing,Singapore,0.00073201468274
+Beijing,Taiwan,0.00086108528171
+Beijing,Thailand,0.00190041091438
+Beijing,United Arab Emirates,0.00051075079879
+Beijing,United Kingdom,0.00054578424708
+Beijing,United States of America,0.00209340219094
+Beijing,Vietnam,0.0004658834001
+Guangzhou,Australia,0.00025752657604
+Guangzhou,Cambodia,0.00037123162751999996
+Guangzhou,Canada,0.00010632958868000001
+Guangzhou,France,3.9335801590000006e-05
+Guangzhou,Germany,4.4252776789999995e-05
+Guangzhou,India,0.00010448572298
+Guangzhou,Indonesia,0.00031960338793
+Guangzhou,Italy,4.486739869e-05
+Guangzhou,Japan,0.00049354138559
+Guangzhou,"Korea, Rep.",0.00037307549322000005
+Guangzhou,Malaysia,0.00057344223257
+Guangzhou,Philippines,0.00019053278896
+Guangzhou,Rest of World,0.00139826482219
+Guangzhou,Russian Federation,7.191076228e-05
+Guangzhou,Singapore,0.00036877313992000004
+Guangzhou,Taiwan,0.00026121430744
+Guangzhou,Thailand,0.00101351151288
+Guangzhou,United Arab Emirates,9.588101638e-05
+Guangzhou,United Kingdom,6.330605569e-05
+Guangzhou,United States of America,0.00031837414413
+Guangzhou,Vietnam,0.00046772726580000004
+Hangzhou,Australia,0.00010079799158
+Hangzhou,Cambodia,5.470134909e-05
+Hangzhou,Canada,1.96679008e-05
+Hangzhou,France,1.5980169399999998e-05
+Hangzhou,Germany,1.16778161e-05
+Hangzhou,India,4.3023532990000006e-05
+Hangzhou,Indonesia,0.00012230975807
+Hangzhou,Italy,2.642874169e-05
+Hangzhou,Japan,0.00038045095602
+Hangzhou,"Korea, Rep.",0.00035033448292
+Hangzhou,Malaysia,0.00023970254095
+Hangzhou,Philippines,4.056504539e-05
+Hangzhou,Rest of World,0.00036692927422
+Hangzhou,Russian Federation,3.073109499e-05
+Hangzhou,Singapore,0.00027965296444
+Hangzhou,Taiwan,0.00035217834862000003
+Hangzhou,Thailand,0.0006097049246699999
+Hangzhou,United Arab Emirates,2.397025409e-05
+Hangzhou,United Kingdom,2.397025409e-05
+Hangzhou,United States of America,8.297395648e-05
+Hangzhou,Vietnam,0.00021142993355
+Kunming,Australia,0.00011063194198000002
+Kunming,Cambodia,0.00049784373889
+Kunming,Canada,3.196033879e-05
+Kunming,France,2.08971446e-05
+Kunming,Germany,1.29070599e-05
+Kunming,India,0.00010079799158
+Kunming,Indonesia,3.503344829e-05
+Kunming,Italy,6.146219e-06
+Kunming,Japan,0.00021942001825
+Kunming,"Korea, Rep.",0.00025506808844
+Kunming,Malaysia,0.00058450542677
+Kunming,Philippines,0.00015119698737
+Kunming,Rest of World,0.0011640938783399998
+Kunming,Russian Federation,4.3638154889999994e-05
+Kunming,Singapore,0.00017270875386
+Kunming,Taiwan,0.00024646338185
+Kunming,Thailand,0.00222185816801
+Kunming,United Arab Emirates,4.486739869e-05
+Kunming,United Kingdom,2.888722929e-05
+Kunming,United States of America,8.481782218e-05
+Kunming,Vietnam,0.0004130259167099999
+Qingdao,Australia,0.00017701110715999998
+Qingdao,Cambodia,1.9053278899999997e-05
+Qingdao,Canada,6.760840899e-05
+Qingdao,France,1.29070599e-05
+Qingdao,Germany,3.626269209000001e-05
+Qingdao,India,2.888722929e-05
+Qingdao,Indonesia,5.838908049000001e-05
+Qingdao,Italy,2.02825227e-05
+Qingdao,Japan,0.00065457232336
+Qingdao,"Korea, Rep.",0.0024689361717600005
+Qingdao,Malaysia,6.269143379e-05
+Qingdao,Philippines,4.794050819e-05
+Qingdao,Rest of World,0.00016226018156
+Qingdao,Russian Federation,5.961832429e-05
+Qingdao,Singapore,0.00022863934675000001
+Qingdao,Taiwan,0.00018991816706000002
+Qingdao,Thailand,0.00030792557183
+Qingdao,United Arab Emirates,2.9501851190000002e-05
+Qingdao,United Kingdom,6.0232946189999996e-05
+Qingdao,United States of America,0.00015181160927
+Qingdao,Vietnam,9.096404118000001e-05
+Rest of Mainland China,Australia,0.00101597000048
+Rest of Mainland China,Cambodia,0.0015150429831700001
+Rest of Mainland China,Canada,0.00026305817314
+Rest of Mainland China,France,0.00024707800375
+Rest of Mainland China,Germany,0.00018623043566
+Rest of Mainland China,India,8.727630977999999e-05
+Rest of Mainland China,Indonesia,0.00107620294666
+Rest of Mainland China,Italy,0.00042962070801
+Rest of Mainland China,Japan,0.0033841081806600002
+Rest of Mainland China,"Korea, Rep.",0.00441913146003
+Rest of Mainland China,Malaysia,0.00139457709079
+Rest of Mainland China,Philippines,0.00069821047825
+Rest of Mainland China,Rest of World,0.00205775412075
+Rest of Mainland China,Russian Federation,0.00162198719374
+Rest of Mainland China,Singapore,0.00191577646188
+Rest of Mainland China,Taiwan,0.0033828789368600004
+Rest of Mainland China,Thailand,0.00550762684469
+Rest of Mainland China,United Arab Emirates,0.00038721179692000003
+Rest of Mainland China,United Kingdom,0.00035893918952
+Rest of Mainland China,United States of America,0.0009127135213
+Rest of Mainland China,Vietnam,0.00101474075668
+Shanghai,Australia,0.00139826482219
+Shanghai,Cambodia,0.00046772726580000004
+Shanghai,Canada,0.00070312745345
+Shanghai,France,0.0004382254146
+Shanghai,Germany,0.00093606915349
+Shanghai,India,0.00051874088349
+Shanghai,Indonesia,0.00100797991578
+Shanghai,Italy,0.00050890693309
+Shanghai,Japan,0.00845842658594
+Shanghai,"Korea, Rep.",0.00419049211328
+Shanghai,Malaysia,0.00123170228733
+Shanghai,Philippines,0.0008727630978099999
+Shanghai,Rest of World,0.00497843738891
+Shanghai,Russian Federation,0.00026981901404000004
+Shanghai,Singapore,0.00170557577213
+Shanghai,Taiwan,0.0041198105948
+Shanghai,Thailand,0.0038948589794499996
+Shanghai,United Arab Emirates,0.00054578424708
+Shanghai,United Kingdom,0.00088444091391
+Shanghai,United States of America,0.00349965709783
+Shanghai,Vietnam,0.0009631125170900001
+Shenzhen,Australia,0.00070750847835
+Shenzhen,Cambodia,0.00030918677597000004
+Shenzhen,Canada,0.00027094991833999995
+Shenzhen,France,0.00013750075295
+Shenzhen,Germany,0.00015573289699
+Shenzhen,India,0.00029652556482999995
+Shenzhen,Indonesia,0.0005730464160700001
+Shenzhen,Italy,9.79977742e-05
+Shenzhen,Japan,0.0028966318839699994
+Shenzhen,"Korea, Rep.",0.00158087882259
+Shenzhen,Malaysia,0.0007259938466100001
+Shenzhen,Philippines,0.00104885473061
+Shenzhen,Rest of World,0.0013669043543699999
+Shenzhen,Russian Federation,7.368824882e-05
+Shenzhen,Singapore,0.0009232555161300001
+Shenzhen,Taiwan,0.0032053122115
+Shenzhen,Thailand,0.00195083941202
+Shenzhen,United Arab Emirates,0.00017599083481000002
+Shenzhen,United Kingdom,0.00044997944382
+Shenzhen,United States of America,0.00072016968949
+Shenzhen,Vietnam,0.00056899482851
+Wuhan,Australia,0.04418885611270999
+Wuhan,Cambodia,0.02992286719494
+Wuhan,Canada,0.01112096865616
+Wuhan,France,0.01128199959393
+Wuhan,Germany,0.00738160901738
+Wuhan,India,0.00828571783208
+Wuhan,Indonesia,0.03213796452205
+Wuhan,Italy,0.00669077400193
+Wuhan,Japan,0.08958421501485002
+Wuhan,"Korea, Rep.",0.05812294920455
+Wuhan,Malaysia,0.06007437373662001
+Wuhan,Philippines,0.01166921139084
+Wuhan,Rest of World,0.04734309570282
+Wuhan,Russian Federation,0.005668657782460001
+Wuhan,Singapore,0.037471038747180004
+Wuhan,Taiwan,0.08052222972324001
+Wuhan,Thailand,0.20979811240948001
+Wuhan,United Arab Emirates,0.01629055345593
+Wuhan,United Kingdom,0.01840669665716
+Wuhan,United States of America,0.03904692929844
+Wuhan,Vietnam,0.032807287771
+Xiamen,Australia,0.00015918707206999998
+Xiamen,Cambodia,0.00027842372064
+Xiamen,Canada,5.961832429e-05
+Xiamen,France,1.04485723e-05
+Xiamen,Germany,2.8272607390000003e-05
+Xiamen,India,5.7774458590000006e-05
+Xiamen,Indonesia,0.00018991816706000002
+Xiamen,Italy,7.744235938e-05
+Xiamen,Japan,0.00053656491858
+Xiamen,"Korea, Rep.",0.00038721179692000003
+Xiamen,Malaysia,0.00039643112541
+Xiamen,Philippines,0.00056176441648
+Xiamen,Rest of World,0.00025138035704
+Xiamen,Russian Federation,2.335563219e-05
+Xiamen,Singapore,0.00036324154282
+Xiamen,Taiwan,0.0008973479737999999
+Xiamen,Thailand,0.00043392306130000003
+Xiamen,United Arab Emirates,3.134571689e-05
+Xiamen,United Kingdom,4.3023532990000006e-05
+Xiamen,United States of America,0.00012661211137000001
+Xiamen,Vietnam,0.00013644606177
+Zhuhai,Australia,0.00015627007653
+Zhuhai,Cambodia,6.829125392e-05
+Zhuhai,Canada,5.984573439e-05
+Zhuhai,France,3.037031194e-05
+Zhuhai,Germany,3.439731463e-05
+Zhuhai,India,6.549472427e-05
+Zhuhai,Indonesia,0.0001265709317
+Zhuhai,Italy,2.1645139450000003e-05
+Zhuhai,Japan,0.0006397900520399999
+Zhuhai,"Korea, Rep.",0.0003491746914
+Zhuhai,Malaysia,0.00016035300981
+Zhuhai,Philippines,0.00023166451574000002
+Zhuhai,Rest of World,0.00030191334041
+Zhuhai,Russian Federation,1.6275802529999997e-05
+Zhuhai,Singapore,0.00020392294167
+Zhuhai,Taiwan,0.0007079694447699999
+Zhuhai,Thailand,0.00043088928761000005
+Zhuhai,United Arab Emirates,3.887176206e-05
+Zhuhai,United Kingdom,9.938866356e-05
+Zhuhai,United States of America,0.00015906660617
+Zhuhai,Vietnam,0.00012567604222
